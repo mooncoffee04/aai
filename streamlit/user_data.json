@@ -1,0 +1,22 @@
+{
+    "luna": {
+        "password": "lavu0104",
+        "mobile": "7045005532",
+        "city": "bombay"
+    },
+    "anushka": {
+        "password": "anu0104",
+        "mobile": "1234567891",
+        "city": "bombay"
+    },
+    "aakash": {
+        "password": "aak0104",
+        "mobile": "4567894512",
+        "city": "bombay"
+    },
+    "preeta": {
+        "password": "preeta0104",
+        "mobile": "9372867066",
+        "city": "bombay"
+    }
+}
